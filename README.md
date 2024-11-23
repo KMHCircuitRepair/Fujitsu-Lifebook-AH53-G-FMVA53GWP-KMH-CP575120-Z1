@@ -1,5 +1,6 @@
 # Fujitsu-Lifebook-AH53-G-FMVA53GWP-KMH-CP575120-Z1
 Fujitsu Lifebook AH53/G FMVA53GWP KMH#CP575120-Z1
+CP575120-Z1 BF OK.BIN file from vinafix
 
 Socket FS1
 
